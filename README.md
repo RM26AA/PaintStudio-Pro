@@ -1,4 +1,73 @@
-# Welcome to your Lovable project
+# 🎨 Advanced Web Paint Application
+
+A powerful, web-based paint application packed with professional-grade features. Designed to be intuitive for beginners and flexible enough for advanced users, this app brings the functionality of traditional desktop paint programs to your browser.
+
+## 🚀 Features
+
+### Drawing Tools
+- **Pencil Tool** – Fine, freehand drawing
+- **Shapes** – Rectangle, circle, triangle, star, and heart
+- **Text Tool** – Add custom text with adjustable fonts
+- **Eraser** – Remove parts of your drawing
+- **Paint Bucket** – Fill areas with color
+
+### Clipboard & Image Support
+- **Paste Images** – Paste images directly from clipboard (e.g., Google Images)
+- **Copy/Cut/Paste** – Standard clipboard operations
+
+### File & Output
+- **Save as** – JPEG, PNG, WebP, BMP
+- **Print support** – Send your canvas directly to the printer
+
+### UI & Experience
+- **Zoom In/Out** – With fit-to-canvas and percentage display
+- **Fullscreen Mode**
+- **Grid & Ruler Overlays**
+- **Status Bar** – Displays coordinates, zoom level, and more
+- **Enhanced Toolbar** – Grouped tools with clean layout
+- **Color Picker** – Rich, interactive color selection
+
+## 🧩 Tech Stack
+
+- **React + TypeScript**
+- **Canvas API**
+- **Modern UI libraries** (e.g., Tailwind, Radix UI)
+
+## 🛠️ Getting Started
+
+1. Clone the repository:
+```
+git clone https://github.com/your-username/your-repo-name.git
+cd your-repo-name
+```
+
+2. Install dependencies:
+```
+npm install
+```
+
+3. Start the development server:
+```
+npm run dev
+```
+
+4. Open in your browser:
+```
+http://localhost:3000
+```
+
+## 🐛 Known Issues / TODO
+
+- Improve touch support for mobile
+- Undo/Redo history
+- Layer support (planned)
+
+## 📄 License
+This project is licensed under the MIT License.
+
+Created with ❤️ by R.Maunick
+
+# Lovable Project Info
 
 ## Project info
 
@@ -71,3 +140,17 @@ Yes, you can!
 To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
 
 Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
